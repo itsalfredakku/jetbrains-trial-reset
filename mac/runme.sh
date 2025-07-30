@@ -31,7 +31,8 @@ fi
 
 # Reset Intellij evaluation
 #for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider; do
-for product in Rider; do
+#for product in Rider; do
+for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider; do
   echo "Resetting trial period for $product"
 
 #  echo "removing evaluation key..."
